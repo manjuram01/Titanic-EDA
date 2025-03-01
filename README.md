@@ -1,6 +1,5 @@
 # Titanic Exploratory Data Analysis (EDA)   
 
-![image](banner.jpg) 
 This project focuses on conducting data cleaning and exploratory data analysis (EDA) on the Titanic dataset.The Titanic dataset is a well-known dataset that provides insights into the demographics and survival rates of passengers aboard the Titanic. 
 
 ## DATA UNDERSTANDING  
@@ -49,6 +48,4 @@ Multivariate analysis extends the exploration to multiple variables simultaneous
 * Age vs. Survived: there might be a slight concentration of younger survivors.
 
 AUTHOR:          
-Yasasvi Chaganti - chagantiyasasvi77@gmail.com  
-
-👉 [LinkedIn](https://www.linkedin.com/in/yasasvi-chaganti/)
+Manju Ram Bojja 
